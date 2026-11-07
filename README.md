@@ -31,6 +31,7 @@
 | [0013-roman-to-integer](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0069-sqrtx) |
 ## Recursion
 |  |
 | ------- |
@@ -57,6 +58,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -112,4 +114,8 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0067-add-binary) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
