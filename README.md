@@ -23,6 +23,7 @@
 | [0205-isomorphic-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0290-word-pattern) |
 ## Linked List
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0171-excel-sheet-column-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0290-word-pattern) |
 ## Sliding Window
 |  |
 | ------- |
