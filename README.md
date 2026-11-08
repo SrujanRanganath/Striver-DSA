@@ -12,6 +12,7 @@
 | [0035-search-insert-position](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0088-merge-sorted-array) |
+| [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -21,6 +22,7 @@
 | [0202-happy-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -42,6 +44,7 @@
 | [0171-excel-sheet-column-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -75,6 +78,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -132,6 +136,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
@@ -149,6 +154,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 ## Tree
 |  |
 | ------- |
