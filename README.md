@@ -20,6 +20,7 @@
 | [0013-roman-to-integer](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
 ## Linked List
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0168-excel-sheet-column-title](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
 ## Tree
 |  |
 | ------- |
