@@ -47,6 +47,7 @@
 | [0231-power-of-two](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0292-nim-game) |
+| [0441-arranging-coins](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0035-search-insert-position](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
+| [0441-arranging-coins](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
 | ------- |
