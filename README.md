@@ -47,6 +47,7 @@
 | [0231-power-of-two](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0441-arranging-coins) |
 ## Recursion
 |  |
@@ -72,6 +73,7 @@
 | [0205-isomorphic-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0290-word-pattern) |
+| [0415-add-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0415-add-strings) |
 ## Newton's Method
 |  |
 | ------- |
