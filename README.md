@@ -13,6 +13,7 @@
 | [0066-plus-one](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@
 | [0415-add-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0492-construct-the-rectangle) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Recursion
 |  |
 | ------- |
@@ -93,6 +95,7 @@
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 | [0400-nth-digit](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0441-arranging-coins) |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -215,4 +218,20 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0292-nim-game) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Prefix Sum
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Ordered Set
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+## Randomized
+|  |
+| ------- |
+| [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 <!---LeetCode Topics End-->
