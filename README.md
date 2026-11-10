@@ -47,6 +47,7 @@
 | [0231-power-of-two](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0292-nim-game) |
+| [0400-nth-digit](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0400-nth-digit) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0415-add-strings) |
@@ -89,6 +90,7 @@
 | [0035-search-insert-position](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
+| [0400-nth-digit](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0441-arranging-coins) |
 ## Divide and Conquer
 |  |
