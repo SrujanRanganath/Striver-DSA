@@ -56,6 +56,7 @@
 | [0492-construct-the-rectangle](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0504-base-7](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0504-base-7) |
+| [0507-perfect-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0507-perfect-number) |
 ## Recursion
 |  |
 | ------- |
