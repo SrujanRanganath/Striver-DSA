@@ -25,6 +25,7 @@
 | [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0290-word-pattern) |
+| [0519-random-flip-matrix](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0519-random-flip-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -58,6 +59,7 @@
 | [0504-base-7](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0509-fibonacci-number) |
+| [0519-random-flip-matrix](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0519-random-flip-matrix) |
 ## Recursion
 |  |
 | ------- |
@@ -229,6 +231,7 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0519-random-flip-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -241,4 +244,5 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0519-random-flip-matrix](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0519-random-flip-matrix) |
 <!---LeetCode Topics End-->
