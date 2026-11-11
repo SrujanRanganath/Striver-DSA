@@ -15,6 +15,7 @@
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0528-random-pick-with-weight) |
 ## Hash Table
 |  |
 | ------- |
@@ -63,6 +64,7 @@
 | [0509-fibonacci-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0519-random-flip-matrix) |
 | [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0528-random-pick-with-weight) |
 ## Recursion
 |  |
 | ------- |
@@ -106,6 +108,7 @@
 | [0400-nth-digit](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0400-nth-digit) |
 | [0441-arranging-coins](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0441-arranging-coins) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0528-random-pick-with-weight](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0528-random-pick-with-weight) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -240,6 +243,7 @@
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0528-random-pick-with-weight) |
 ## Ordered Set
 |  |
 | ------- |
@@ -249,6 +253,7 @@
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0519-random-flip-matrix) |
+| [0528-random-pick-with-weight](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0528-random-pick-with-weight) |
 ## Pigeonhole Principle
 |  |
 | ------- |
