@@ -16,6 +16,7 @@
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0528-random-pick-with-weight) |
+| [0539-minimum-time-difference](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0539-minimum-time-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -66,6 +67,7 @@
 | [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0539-minimum-time-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -96,6 +98,7 @@
 | [0415-add-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0537-complex-number-multiplication) |
+| [0539-minimum-time-difference](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0539-minimum-time-difference) |
 ## Sliding Window
 |  |
 | ------- |
@@ -193,6 +196,7 @@
 | [0088-merge-sorted-array](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
+| [0539-minimum-time-difference](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0539-minimum-time-difference) |
 ## Tree
 |  |
 | ------- |
