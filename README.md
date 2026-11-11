@@ -14,6 +14,7 @@
 | [0088-merge-sorted-array](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0268-missing-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0290-word-pattern) |
 | [0519-random-flip-matrix](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0519-random-flip-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -60,6 +62,7 @@
 | [0507-perfect-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0509-fibonacci-number) |
 | [0519-random-flip-matrix](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0519-random-flip-matrix) |
+| [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -236,6 +239,7 @@
 |  |
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
 ## Ordered Set
 |  |
 | ------- |
@@ -245,4 +249,8 @@
 | ------- |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0519-random-flip-matrix](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0519-random-flip-matrix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
