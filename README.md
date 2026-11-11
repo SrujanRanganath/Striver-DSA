@@ -55,6 +55,7 @@
 | [0441-arranging-coins](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0492-construct-the-rectangle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [0504-base-7](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0504-base-7) |
 ## Recursion
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0504-base-7) |
 ## Sliding Window
 |  |
 | ------- |
