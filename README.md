@@ -17,6 +17,7 @@
 | [0523-continuous-subarray-sum](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0523-continuous-subarray-sum) |
 | [0528-random-pick-with-weight](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0528-random-pick-with-weight) |
 | [0539-minimum-time-difference](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0553-optimal-division) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 | [0528-random-pick-with-weight](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0528-random-pick-with-weight) |
 | [0537-complex-number-multiplication](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0539-minimum-time-difference) |
+| [0553-optimal-division](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0553-optimal-division) |
 ## Recursion
 |  |
 | ------- |
@@ -147,6 +149,7 @@
 | [0005-longest-palindromic-substring](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0509-fibonacci-number) |
+| [0553-optimal-division](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0553-optimal-division) |
 ## Manacher
 |  |
 | ------- |
