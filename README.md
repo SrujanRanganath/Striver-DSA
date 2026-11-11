@@ -70,6 +70,7 @@
 | [0537-complex-number-multiplication](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0539-minimum-time-difference) |
 | [0553-optimal-division](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0553-optimal-division) |
+| [0556-next-greater-element-iii](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0556-next-greater-element-iii) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@
 | [0504-base-7](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0504-base-7) |
 | [0537-complex-number-multiplication](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0537-complex-number-multiplication) |
 | [0539-minimum-time-difference](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0539-minimum-time-difference) |
+| [0556-next-greater-element-iii](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0556-next-greater-element-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | [0088-merge-sorted-array](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0202-happy-number) |
+| [0556-next-greater-element-iii](https://github.com/SrujanRanganath/Striver-DSA/tree/master/0556-next-greater-element-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
